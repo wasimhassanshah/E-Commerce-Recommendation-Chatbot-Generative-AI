@@ -1,2 +1,2 @@
 ## Flipkart Chat Bot
-![](Recommendation chatbot.PNG)
+![](/Recommendation chatbot.PNG)
