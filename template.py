@@ -10,7 +10,7 @@ list_of_files = [
     f"{project_name}/data_ingestion.py",
     f"{project_name}/retrieval_generation.py",
     "static/style.css",
-    "templates/chat.html",
+    "templates/index.html",
     "setup.py",
     "app.py",
     "requirements.txt",
